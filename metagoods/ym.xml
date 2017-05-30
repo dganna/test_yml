@@ -1,0 +1,152 @@
+
+<yml_catalog date="2017-05-26 10:47">
+	<shop>
+		<name>Тестовый ЯМаркет</name>
+		<company>Псевдо-мерчант, используемый для исполнения тестовых заказов</company>
+		<url>https://isaltanov.github.io/metagoods/ym.xml</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="1">УХОД ЗА РЕБЕНКОМ</category>
+          	<category id="2">ТЕХНИКА</category>
+		</categories>
+		<offers>
+			<offer id="1" available="true">
+				<price>2500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<market_category>
+					Детские товары/Товары для мам и малышей/Здоровье и уход
+				</market_category>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<cpa>1</cpa>
+				<name>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</name>
+				<vendorCode>3574661035925</vendorCode>
+				<model>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</model>
+				<description>Детские салфетки JOHNSON`s BABY &quot;НЕЖНАЯ ЗАБОТА&quot; изготовлены из высококачественного нетканого материала, который мягко и нежно очищает чувствительную кожу ребенка. Салфетки пропитаны очищающим детским лосьоном, на 97% состоящим из чистой воды, а также содержат ингредиенты натурального происхождения. Гипоаллергенны. Подходят для новорожденных.</description>
+				<barcode>3574661035925</barcode>
+			</offer>
+          	<offer id="2" available="true">
+				<price>2500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<market_category>
+					Детские товары/Товары для мам и малышей/Здоровье и уход
+				</market_category>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<cpa>1</cpa>
+				<name>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</name>
+				<vendorCode>Carefree</vendorCode>
+				<model>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</model>
+				<description>Сохраняйте ощущение чистоты и свежести каждый день с ежедневными салфетками CAREFREE ALOE с экстрактом Алоэ. Они позволяют нежной коже дышать. С легким ароматом, протестированы дерматологами.</description>
+				<barcode>3574661128269</barcode>
+			</offer>
+          	<offer id="3" available="true">
+				<price>2500</price>
+				<currencyId>RUR</currencyId>
+				<categoryId>1</categoryId>
+				<market_category>
+					Детские товары/Товары для мам и малышей/Здоровье и уход
+				</market_category>
+				<store>true</store>
+				<pickup>true</pickup>
+				<delivery>true</delivery>
+				<cpa>1</cpa>
+				<name>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</name>
+				<vendorCode>Carefree</vendorCode>
+				<model>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</model>
+				<description>Сохраняйте ощущение чистоты и свежести каждый день с ежедневными салфетками CAREFREE ALOE с экстрактом Алоэ. Они позволяют нежной коже дышать. С легким ароматом, протестированы дерматологами.</description>
+				<barcode>3574661128269</barcode>
+          </offer>
+            <offer id="50043522" type="vendor.model" bid="10" cbid="10" available="true">
+	<url>http://www.mvideo.ru/products/naushniki-bluetooth-samsung-level-u-white-eo-bg920bwegru-50043522?cityId=CityCZ_975&amp;amp;reff=yan_tov_dD50_c51501_g515010110_m13</url>
+	<price>3190.0</price>
+	<currencyId>RUR</currencyId>
+	<categoryId>2</categoryId>
+	<picture>http://img.mvideo.ru/Pdb/50043522b.jpg</picture>
+	<store>false</store>
+	<delivery>false</delivery>
+	<pickup>true</pickup>
+	<local_delivery_cost>0</local_delivery_cost>
+	<typePrefix>Bluetooth</typePrefix>
+	<vendor>Samsung</vendor>
+	<model>Level U White (EO-BG920BWEGRU)</model>
+	<description></description>
+	<manufacturer_warranty>true</manufacturer_warranty>
+	<barcode>8806086742177</barcode>
+</offer>
+
+  <offer id="50043825" type="vendor.model" bid="10" cbid="10" available="true">
+  	<url>http://www.mvideo.ru/products/naushniki-vnutrikanalnye-hp-h2310-sky-blue-m2j39aa-50043825?cityId=CityCZ_975&amp;amp;reff=yan_tov_dD50_c51501_g515010106_m534</url>
+  	<price>990.0</price>
+  	<currencyId>RUR</currencyId>
+  	<categoryId>2</categoryId>
+  	<picture>http://img.mvideo.ru/Pdb/50043825b.jpg</picture>
+  	<store>false</store>
+  	<delivery>true</delivery>
+  	<pickup>true</pickup>
+  	<local_delivery_cost>290.0</local_delivery_cost>
+  	<vendor>HP</vendor>
+  	<model>H2310 Sky Blue (M2J39AA)</model>
+  	<description></description>
+  	<manufacturer_warranty>true</manufacturer_warranty>
+  	<barcode>0889296501220</barcode>
+  	<barcode>889296501220</barcode>
+  </offer>
+  <offer id="50043431" type="vendor.model" bid="10" cbid="10" available="true">
+  	<url>http://www.mvideo.ru/products/sportivnye-naushniki-philips-shq3300or-00-50043431?cityId=CityCZ_975&amp;amp;reff=yan_tov_dD50_c51501_g515010111_m11</url>
+  	<price>1890.0</price>
+  	<currencyId>RUR</currencyId>
+  	<categoryId>2</categoryId>
+  	<picture>http://img.mvideo.ru/Pdb/50043431b.jpg</picture>
+  	<store>false</store>
+  	<delivery>true</delivery>
+  	<pickup>true</pickup>
+  	<local_delivery_cost>290.0</local_delivery_cost>
+  	<vendor>Philips</vendor>
+  	<model>SHQ3300OR/00</model>
+  	<manufacturer_warranty>true</manufacturer_warranty>
+  	<barcode>6925970700054</barcode>
+  </offer>
+
+  <offer id="50035956" type="vendor.model" bid="10" cbid="10" available="true">
+  	<url>http://www.mvideo.ru/products/naushniki-polnorazmernye-philips-shp1900-10-50035956?cityId=CityCZ_975&amp;amp;reff=yan_tov_dD50_c51501_g515010108_m11</url>
+  	<price>1090.0</price>
+  	<currencyId>RUR</currencyId>
+  	<categoryId>2</categoryId>
+  	<picture>http://img.mvideo.ru/Pdb/50035956b.jpg</picture>
+  	<store>false</store>
+  	<delivery>true</delivery>
+  	<pickup>true</pickup>
+  	<local_delivery_cost>290.0</local_delivery_cost>
+  	<vendor>Philips</vendor>
+  	<model>SHP1900/10</model>
+  	<manufacturer_warranty>true</manufacturer_warranty>
+  	<barcode>6925970700054</barcode>
+  </offer>
+
+<offer id="50037425" type="vendor.model" bid="10" cbid="10" available="true">
+	<url>http://www.mvideo.ru/products/naushniki-vnutrikanalnye-philips-she3590bk-10-50037425?cityId=CityCZ_975&amp;amp;reff=yan_tov_dD50_c51501_g515010106_m11</url>
+	<price>590.0</price>
+	<currencyId>RUR</currencyId>
+	<categoryId>2</categoryId>
+	<picture>http://img.mvideo.ru/Pdb/50037425b.jpg</picture>
+	<store>false</store>
+	<delivery>true</delivery>
+	<pickup>true</pickup>
+	<local_delivery_cost>290.0</local_delivery_cost>
+	<vendor>Philips</vendor>
+	<model>SHE3590BK/10</model>
+	<manufacturer_warranty>true</manufacturer_warranty>
+	<barcode>0609585223066</barcode>
+	<barcode>609585223066</barcode>
+	<barcode>6923410713701</barcode>
+</offer>
+		</offers>
+	</shop>
+</yml_catalog>
