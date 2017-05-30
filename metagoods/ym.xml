@@ -11,6 +11,9 @@
 			<category id="1">УХОД ЗА РЕБЕНКОМ</category>
           	<category id="2">ТЕХНИКА</category>
 		</categories>
+      	<shipment-options> 
+          <option days="4" order-before="14"/> 
+        </shipment-options>
 		<offers>
 			<offer id="1" available="true">
 				<price>2500</price>
@@ -22,6 +25,9 @@
 				<store>true</store>
 				<pickup>true</pickup>
 				<delivery>true</delivery>
+                <shipment-options> 
+          			<option days="3" order-before="13"/> 
+        		</shipment-options>
 				<cpa>1</cpa>
 				<name>JOHNSON`s BABY Детски салфетки карман нежн заб 25ш</name>
 				<vendorCode>3574661035925</vendorCode>
